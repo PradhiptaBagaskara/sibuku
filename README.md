@@ -1,0 +1,1 @@
+Tugasmu Lurd!
