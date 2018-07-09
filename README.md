@@ -1,5 +1,6 @@
 Tugasmu Lurd!
 
+Download dengan format zip
 
 cara import db ke phpmysql
 1. nyalakan xampp pilih start pada apache dan mysqli_query

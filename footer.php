@@ -8,7 +8,7 @@
 </footer>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script type="text/javascript" src="js/countdown.js"></script>
+<!-- <script type="text/javascript" src="js/countdown.js"></script> -->
 <script type="text/javascript">
 function konfirmasi() {
 tanya = confirm("Anda Yakin Akan Menghapus Data ?");
