@@ -1,0 +1,17 @@
+main {
+  display: flex;
+}
+
+
+.konten,
+.sidebar
+
+.konten {
+  float: left;
+  width: 300px;
+}
+
+.sidebar {
+  margin-left: 30px;
+  width: 800px;
+}
