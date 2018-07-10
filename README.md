@@ -3,7 +3,7 @@ Tugasmu Lurd!
 
 Download dengan format zip
 
-cara import db ke phpmysql
+cara import db ke phpmyadmin
 1. nyalakan xampp pilih start pada apache dan mysql
 2. buka browser masuk ke localhost/phpmyadmin
 3. create new db dan beri nama sibuku
